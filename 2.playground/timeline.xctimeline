@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=68&amp;CharacterRangeLoc=362&amp;EndingColumnNumber=77&amp;EndingLineNumber=9&amp;StartingColumnNumber=9&amp;StartingLineNumber=9&amp;Timestamp=509182892.548958"
+         lockedSize = "{456, 173}"
+         selectedRepresentationIndex = "1"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=67&amp;CharacterRangeLoc=615&amp;EndingColumnNumber=76&amp;EndingLineNumber=17&amp;StartingColumnNumber=9&amp;StartingLineNumber=17&amp;Timestamp=509182944.828011"
+         lockedSize = "{459, 175}"
+         selectedRepresentationIndex = "1"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=56&amp;CharacterRangeLoc=925&amp;EndingColumnNumber=53&amp;EndingLineNumber=28&amp;StartingColumnNumber=9&amp;StartingLineNumber=28&amp;Timestamp=509183335.027345"
+         lockedSize = "{442, 153}"
+         selectedRepresentationIndex = "1"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=56&amp;CharacterRangeLoc=1043&amp;EndingColumnNumber=58&amp;EndingLineNumber=36&amp;StartingColumnNumber=1&amp;StartingLineNumber=36&amp;Timestamp=509183435.641383"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "#CharacterRangeLen=0&amp;CharacterRangeLoc=1042&amp;EndingColumnNumber=11&amp;EndingLineNumber=36&amp;StartingColumnNumber=5&amp;StartingLineNumber=36&amp;Timestamp=509183435.641523"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
